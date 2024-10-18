@@ -1,0 +1,5 @@
+# Fire all torpedoes functional
+GT4500,2,0,1,0
+TORPEDO,ALL  # should have fired from the both stores
+TORPEDO,ALL  # fired from first only.
+TORPEDO,ALL  # must fail, no more torpedoes.

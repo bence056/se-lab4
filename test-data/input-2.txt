@@ -1,0 +1,5 @@
+# Auto-swap torpedo bays when emptied.
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # should have fired from the first store
+TORPEDO,SINGLE  # should have fired from the secondary store
+TORPEDO,SINGLE  # must fail, we dont have another torpedo.
