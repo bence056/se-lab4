@@ -1,0 +1,4 @@
+# Tudunk loni.
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # must fail, we dont have another torpedo.
